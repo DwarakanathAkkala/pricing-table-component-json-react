@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Card from './Card';
-import data  from './pricing.json';
+import Card from './components/Card.js';
+import data  from './assets/pricing.json';
 
 function App() {
   return (
