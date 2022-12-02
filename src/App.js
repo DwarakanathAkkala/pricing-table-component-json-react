@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Card from './components/Card.js';
+import Card from './components/Card/Card.js';
 import data  from './assets/pricing.json';
 
 function App() {
