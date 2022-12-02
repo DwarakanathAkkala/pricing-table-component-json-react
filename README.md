@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/DwarakanathAkkala/pricing-table-component-json-react]
-- Live Site URL: [https://pricing-table-component-json-react.netlify.app/]
+- Solution URL: https://github.com/DwarakanathAkkala/pricing-table-component-json-react
+- Live Site URL: https://pricing-table-component-json-react.netlify.app/
 
 ## My process
 
@@ -48,7 +48,7 @@
 
 ### Useful resources
 
-- [https://startbootstrap.com/snippets/pricing-table] - This helped me in having a functoning and responsive code snippet.
+- https://startbootstrap.com/snippets/pricing-table - This helped me in having a functoning and responsive code snippet.
 
 ## Author
 
