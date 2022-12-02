@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-![](./src/assets/screenshots/screenshot.png)
+![./src/assets/screenshots/screenshot.png]
 
 ### Links
 
