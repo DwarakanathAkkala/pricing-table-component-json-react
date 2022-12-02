@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-![Screenshot] (/pricing-table-component-json-react/src/assets/screenshots/screenshot.png)
+![Screenshot] (/screenshots/screenshot.png)
 
 ### Links
 
